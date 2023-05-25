@@ -1,6 +1,6 @@
 require 'cpf_cnpj'
 
-puts "Digite o seu cnpj"
+puts "Digite o seu cpf"
 numeros = gets.chomp.to_i
 
 valido =  CPF.valid?(numeros)
