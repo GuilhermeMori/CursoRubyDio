@@ -1,24 +1,13 @@
-# README
+# Desafio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Criar um blog contendo os livros que eu li durante o ano, deverá ter as seguintes informações:
 
-Things you may want to cover:
+* Título do Livro
 
-* Ruby version
+* Autor do Livro
 
-* System dependencies
+* Nota que dei ao livro
 
-* Configuration
+* Descrição do livro
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
