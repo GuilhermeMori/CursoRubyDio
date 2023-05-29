@@ -12,3 +12,4 @@ produto = Produto.new
   produto2.preco = 10
 
   Mercado.new(produto2.nome, produto2.preco).comprar
+
